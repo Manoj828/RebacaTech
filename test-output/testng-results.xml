@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22155" started-at="2019-07-17T18:43:20Z" finished-at="2019-07-17T18:43:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22155" started-at="2019-07-17T18:43:20Z" finished-at="2019-07-17T18:43:42Z">
+      <class name="com.qa.reb.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.reb.testcases.HomePageTest@19c0f4a]" name="setup" is-config="true" duration-ms="22026" started-at="2019-07-17T18:43:20Z" finished-at="2019-07-17T18:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TitleTest()[pri:2, instance:com.qa.reb.testcases.HomePageTest@19c0f4a]" name="TitleTest" duration-ms="26" started-at="2019-07-17T18:43:42Z" finished-at="2019-07-17T18:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method status="PASS" signature="tearup()[pri:0, instance:com.qa.reb.testcases.HomePageTest@19c0f4a]" name="tearup" is-config="true" duration-ms="1" started-at="2019-07-17T18:43:42Z" finished-at="2019-07-17T18:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearup -->
+      </class> <!-- com.qa.reb.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
